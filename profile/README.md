@@ -18,3 +18,14 @@ Ce projet, fait donc appel à l'ensemble de vos connaissances acquises depuis la
 - JWT
 
 ## DEPLOIEMENT DE GETFAST
+* Création de l'image API GATEWAY : [Script Linux](https://github.com/GetFastFood/dockerfile/blob/main/Deploiement%20des%20microservices/prod-api-gateway.sh)
+* Création des images des API microservices : [Script Linux](https://github.com/GetFastFood/dockerfile/blob/main/Deploiement%20des%20microservices/prod-api-microservices.sh)
+* Déploiement des API microservices : [DockerFile](https://github.com/GetFastFood/dockerfile/blob/main/Microservice%20Server%2001/docker-compose)
+* Déploiement de l'API GATEWAY: [DockerFile](https://github.com/GetFastFood/dockerfile/blob/main/Server%20API%20GATEWAY/docker-compose)
+
+## AUTEURS
+- Victor Massotte
+- Lorry Kiavue
+- Mattie Langlois
+- Amine Dahmar
+- Mohamad Alkhado
