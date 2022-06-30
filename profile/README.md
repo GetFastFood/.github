@@ -23,6 +23,10 @@ Ce projet, fait donc appel à l'ensemble de vos connaissances acquises depuis la
 * Déploiement des API microservices : [DockerFile](https://github.com/GetFastFood/dockerfile/blob/main/Microservice%20Server%2001/docker-compose)
 * Déploiement de l'API GATEWAY: [DockerFile](https://github.com/GetFastFood/dockerfile/blob/main/Server%20API%20GATEWAY/docker-compose)
 
+## DOCUMENTATION API
+
+Documentation de l'API: [API DOCUMENTATION](https://documenter.getpostman.com/view/21488670/UzBpKRcj#3e410031-03a4-4d33-8948-bcde4d5db54e)
+
 ## AUTEURS
 - Victor Massotte
 - Lorry Kiavue
