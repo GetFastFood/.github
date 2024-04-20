@@ -16,6 +16,7 @@ Ce projet, fait donc appel à l'ensemble de vos connaissances acquises depuis la
 - NodeJS
 - RGPD
 - JWT
+- REACT.JS
 
 ## DEPLOIEMENT DE GETFAST
 * Création de l'image API GATEWAY : [Script Linux](https://github.com/GetFastFood/dockerfile/blob/main/Deploiement%20des%20microservices/prod-api-gateway.sh)
